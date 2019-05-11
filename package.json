@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jeffthemaximum/prompt/issues"
   },
-  "homepage": "https://github.com/jeffthemaximum/prompt#readme"
+  "homepage": "https://github.com/jeffthemaximum/prompt#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
 }
