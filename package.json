@@ -1,0 +1,19 @@
+{
+  "name": "@jeffthemaximum/prompt",
+  "version": "1.0.0",
+  "description": "A package to receive command line input; A demo of github's new npm integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jeffthemaximum/prompt.git"
+  },
+  "author": "Jeff Maxim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffthemaximum/prompt/issues"
+  },
+  "homepage": "https://github.com/jeffthemaximum/prompt#readme"
+}
